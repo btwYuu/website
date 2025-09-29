@@ -1,0 +1,63 @@
+
+/* i mean body lol */
+body {
+    background-color: whitesmoke;
+}
+
+/* header config */
+.header_page {
+background-color: #444444;
+height: 100px;
+display: flex;
+}
+
+/* home_button configs */
+.home_button {
+    text-align: center;
+    margin-left: 840px;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    margin-top: 35px;
+    background-color: #444444;
+}
+
+/* inside the home_button */
+.home_button a {
+    color: white;
+    font-size: 14px;
+}
+
+/* who_am_i configs */
+.who_am_i {
+    text-align: center;
+    margin-left: 5px;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    margin-top: 35px;
+    background-color: #444444;
+}
+
+/* inside the home_button */
+.who_am_i a {
+    color: white;
+    font-size: 14px;
+}
+
+/* project configs */
+.project {
+    text-align: center;
+    margin-left: 5px;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    margin-top: 35px;
+    background-color: #444444;
+}
+
+/* inside the project */
+.project a {
+    color: white;
+    font-size: 14px;
+}
