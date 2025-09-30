@@ -26,6 +26,7 @@ display: flex;
 .home_button a {
     color: white;
     font-size: 14px;
+    text-decoration: none;
 }
 
 /* who_am_i configs */
@@ -43,6 +44,7 @@ display: flex;
 .who_am_i a {
     color: white;
     font-size: 14px;
+    text-decoration: none;
 }
 
 /* project configs */
@@ -60,4 +62,11 @@ display: flex;
 .project a {
     color: white;
     font-size: 14px;
+    text-decoration: none;
+
+}
+
+/* little_aboutme config */
+.little_aboutme {
+    
 }
